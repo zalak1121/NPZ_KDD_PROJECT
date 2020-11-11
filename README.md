@@ -1,3 +1,1 @@
 # NPZ_KDD_PROJECT
-
-hello
